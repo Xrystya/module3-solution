@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "grunt-commonjs-compiler": "^0.0.4"
+  }
+}
